@@ -1,0 +1,10 @@
+{
+  "name": "Remix AgriResolve 6",
+  "description": "Smart Agriculture platform featuring an Agricultural Recommendation Conflict Resolver, multilingual support, land-specific soil, weather, irrigation, and crop management for farmers and buyers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
